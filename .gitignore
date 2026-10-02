@@ -1,0 +1,4 @@
+.env
+research/.env
+.venv
+_pycache_
